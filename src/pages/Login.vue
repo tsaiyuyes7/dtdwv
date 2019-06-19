@@ -66,7 +66,8 @@
 </script>
 
 <style scoped>  /* "scoped" attribute limit the CSS to this component only */
-  @import url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css);
+  /* @import url(http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css); */
+  @import '../css/bootstrap.css';
   input{
     width: 15vw;
     outline: none;

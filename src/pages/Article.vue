@@ -128,6 +128,7 @@
 <style scoped>
 
     @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+    @import '../css/bootstrap.css';
   
 .footer {
     padding-bottom: 1vh;
